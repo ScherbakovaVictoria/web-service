@@ -1,6 +1,7 @@
 from app import config, engine, Base
 from sqlalchemy import  Column, Integer, String, Float, Date
 from sqlalchemy.orm import Session
+from app.db_models.Order import Order
 from app.pydantic_models import user_pd_model
 from app.controllers import user_controller
 from app.db_models import db_init
@@ -18,6 +19,7 @@ class User(Base):
     phone = Column(String)
     email = Column(String)
     type = Column(String)
+    
 
     @staticmethod 
     def get_by_id(id: int):
@@ -46,7 +48,7 @@ class Client(User):
     __mapper_args__ = {
         "polymorphic_identity": "clients",
     }
-
+    orders = relationship(Order, backref='client')
     
     @staticmethod
     def create(client: user_pd_model.UserRegister):

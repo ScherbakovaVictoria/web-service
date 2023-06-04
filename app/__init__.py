@@ -23,7 +23,7 @@ Base = declarative_base()
 app=FastAPI()
 
 
-from app.db_models import Product, Category, Media, Client
-from app.controllers import category_controller, product_controller, user_controller
+from app.db_models import Product, Category, Media, Client, Recommendation
+from app.controllers import category_controller, product_controller, user_controller, order_controller
 
 

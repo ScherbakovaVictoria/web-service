@@ -10,3 +10,4 @@ class Product(Base):
     price = Column(Float)
     photo = relationship('Photo', backref='product')
     category_id = Column(Integer, ForeignKey('categories.id'))
+    position_id = Column(Integer, ForeignKey('position.id'))
