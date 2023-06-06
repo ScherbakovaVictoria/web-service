@@ -1,0 +1,373 @@
+Jun 05 11:59:16 964869-cb00678.twc1.net systemd[1]: Starting webservice...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit webserv.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit webserv.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 144.[0m
+Jun 05 11:59:16 964869-cb00678.twc1.net systemd[1]: [0;1;39m[0;1;31m[0;1;39mwebserv.service: Main process exited, code=exited, status=203/EXEC[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAn ExecStart= process belonging to unit webserv.service has exited.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 203.[0m
+Jun 05 11:59:16 964869-cb00678.twc1.net systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mwebserv.service: Failed with result 'exit-code'.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit webserv.service has entered the 'failed' state with result 'exit-code'.[0m
+Jun 05 11:59:16 964869-cb00678.twc1.net systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start webservice.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit webserv.service has failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit webserv.service has finished with a failure.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 144 and the job result is failed.[0m
+[0;1;39m-- Boot f245afa579ef42288863054e5d985c8a --[0m
+Jun 05 12:04:01 964869-cb00678.twc1.net systemd[1]: Starting webservice...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit webserv.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit webserv.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 149.[0m
+Jun 05 12:04:01 964869-cb00678.twc1.net systemd[1]: [0;1;39m[0;1;31m[0;1;39mwebserv.service: Main process exited, code=exited, status=203/EXEC[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAn ExecStart= process belonging to unit webserv.service has exited.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 203.[0m
+Jun 05 12:04:01 964869-cb00678.twc1.net systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mwebserv.service: Failed with result 'exit-code'.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit webserv.service has entered the 'failed' state with result 'exit-code'.[0m
+Jun 05 12:04:01 964869-cb00678.twc1.net systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start webservice.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit webserv.service has failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit webserv.service has finished with a failure.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 149 and the job result is failed.[0m
+Jun 05 12:05:42 964869-cb00678.twc1.net systemd[1276]: [0;1;31m[0;1;39m[0;1;31mwebserv.service: Failed to execute /root/web-service-master/start.sh: Exec format error[0m
+Jun 05 12:05:42 964869-cb00678.twc1.net systemd[1276]: [0;1;31m[0;1;39m[0;1;31mwebserv.service: Failed at step EXEC spawning /root/web-service-master/start.sh: Exec format error[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Process /root/web-service-master/start.sh could not be executed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process /root/web-service-master/start.sh could not be executed and failed.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe error number returned by this process is ERRNO.[0m
+Jun 05 12:05:42 964869-cb00678.twc1.net systemd[1]: Starting webservice...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit webserv.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit webserv.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 619.[0m
+Jun 05 12:05:42 964869-cb00678.twc1.net systemd[1]: [0;1;39m[0;1;31m[0;1;39mwebserv.service: Main process exited, code=exited, status=203/EXEC[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAn ExecStart= process belonging to unit webserv.service has exited.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 203.[0m
+Jun 05 12:05:42 964869-cb00678.twc1.net systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mwebserv.service: Failed with result 'exit-code'.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit webserv.service has entered the 'failed' state with result 'exit-code'.[0m
+Jun 05 12:05:42 964869-cb00678.twc1.net systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start webservice.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit webserv.service has failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit webserv.service has finished with a failure.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 619 and the job result is failed.[0m
+Jun 05 12:06:48 964869-cb00678.twc1.net systemd[1540]: [0;1;31m[0;1;39m[0;1;31mwebserv.service: Failed to execute /root/web-service-master/start.sh: Exec format error[0m
+Jun 05 12:06:48 964869-cb00678.twc1.net systemd[1540]: [0;1;31m[0;1;39m[0;1;31mwebserv.service: Failed at step EXEC spawning /root/web-service-master/start.sh: Exec format error[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Process /root/web-service-master/start.sh could not be executed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process /root/web-service-master/start.sh could not be executed and failed.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe error number returned by this process is ERRNO.[0m
+Jun 05 12:06:48 964869-cb00678.twc1.net systemd[1]: Starting webservice...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit webserv.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit webserv.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 698.[0m
+Jun 05 12:06:48 964869-cb00678.twc1.net systemd[1]: [0;1;39m[0;1;31m[0;1;39mwebserv.service: Main process exited, code=exited, status=203/EXEC[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAn ExecStart= process belonging to unit webserv.service has exited.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 203.[0m
+Jun 05 12:06:48 964869-cb00678.twc1.net systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mwebserv.service: Failed with result 'exit-code'.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit webserv.service has entered the 'failed' state with result 'exit-code'.[0m
+Jun 05 12:06:48 964869-cb00678.twc1.net systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start webservice.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit webserv.service has failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit webserv.service has finished with a failure.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 698 and the job result is failed.[0m
+Jun 05 12:07:32 964869-cb00678.twc1.net systemd[1789]: [0;1;31m[0;1;39m[0;1;31mwebserv.service: Failed to execute /root/web-service-master/start.sh: Exec format error[0m
+Jun 05 12:07:32 964869-cb00678.twc1.net systemd[1789]: [0;1;31m[0;1;39m[0;1;31mwebserv.service: Failed at step EXEC spawning /root/web-service-master/start.sh: Exec format error[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Process /root/web-service-master/start.sh could not be executed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process /root/web-service-master/start.sh could not be executed and failed.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe error number returned by this process is ERRNO.[0m
+Jun 05 12:07:32 964869-cb00678.twc1.net systemd[1]: Starting webservice...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit webserv.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit webserv.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 777.[0m
+Jun 05 12:07:32 964869-cb00678.twc1.net systemd[1]: [0;1;39m[0;1;31m[0;1;39mwebserv.service: Main process exited, code=exited, status=203/EXEC[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAn ExecStart= process belonging to unit webserv.service has exited.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 203.[0m
+Jun 05 12:07:32 964869-cb00678.twc1.net systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mwebserv.service: Failed with result 'exit-code'.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit webserv.service has entered the 'failed' state with result 'exit-code'.[0m
+Jun 05 12:07:32 964869-cb00678.twc1.net systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start webservice.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit webserv.service has failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit webserv.service has finished with a failure.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 777 and the job result is failed.[0m
+Jun 05 12:07:37 964869-cb00678.twc1.net systemd[1797]: [0;1;31m[0;1;39m[0;1;31mwebserv.service: Failed to execute /root/web-service-master/start.sh: Exec format error[0m
+Jun 05 12:07:37 964869-cb00678.twc1.net systemd[1797]: [0;1;31m[0;1;39m[0;1;31mwebserv.service: Failed at step EXEC spawning /root/web-service-master/start.sh: Exec format error[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Process /root/web-service-master/start.sh could not be executed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process /root/web-service-master/start.sh could not be executed and failed.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe error number returned by this process is ERRNO.[0m
+Jun 05 12:07:37 964869-cb00678.twc1.net systemd[1]: Starting webservice...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit webserv.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit webserv.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 854.[0m
+Jun 05 12:07:37 964869-cb00678.twc1.net systemd[1]: [0;1;39m[0;1;31m[0;1;39mwebserv.service: Main process exited, code=exited, status=203/EXEC[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAn ExecStart= process belonging to unit webserv.service has exited.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 203.[0m
+Jun 05 12:07:37 964869-cb00678.twc1.net systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mwebserv.service: Failed with result 'exit-code'.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit webserv.service has entered the 'failed' state with result 'exit-code'.[0m
+Jun 05 12:07:37 964869-cb00678.twc1.net systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start webservice.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit webserv.service has failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit webserv.service has finished with a failure.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 854 and the job result is failed.[0m
+Jun 05 12:09:07 964869-cb00678.twc1.net systemd[1]: Starting webservice...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit webserv.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit webserv.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 1085.[0m
+Jun 05 12:09:07 964869-cb00678.twc1.net systemd[2003]: [0;1;31m[0;1;39m[0;1;31mwebserv.service: Failed to execute /root/web-service-master/start.sh: Exec format error[0m
+Jun 05 12:09:07 964869-cb00678.twc1.net systemd[2003]: [0;1;31m[0;1;39m[0;1;31mwebserv.service: Failed at step EXEC spawning /root/web-service-master/start.sh: Exec format error[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Process /root/web-service-master/start.sh could not be executed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process /root/web-service-master/start.sh could not be executed and failed.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe error number returned by this process is ERRNO.[0m
+Jun 05 12:09:07 964869-cb00678.twc1.net systemd[1]: [0;1;39m[0;1;31m[0;1;39mwebserv.service: Main process exited, code=exited, status=203/EXEC[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAn ExecStart= process belonging to unit webserv.service has exited.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 203.[0m
+Jun 05 12:09:07 964869-cb00678.twc1.net systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mwebserv.service: Failed with result 'exit-code'.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit webserv.service has entered the 'failed' state with result 'exit-code'.[0m
+Jun 05 12:09:07 964869-cb00678.twc1.net systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start webservice.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit webserv.service has failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit webserv.service has finished with a failure.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 1085 and the job result is failed.[0m
+Jun 05 12:09:19 964869-cb00678.twc1.net systemd[2039]: [0;1;31m[0;1;39m[0;1;31mwebserv.service: Failed to execute /root/web-service-master/start.sh: Exec format error[0m
+Jun 05 12:09:19 964869-cb00678.twc1.net systemd[2039]: [0;1;31m[0;1;39m[0;1;31mwebserv.service: Failed at step EXEC spawning /root/web-service-master/start.sh: Exec format error[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Process /root/web-service-master/start.sh could not be executed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process /root/web-service-master/start.sh could not be executed and failed.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe error number returned by this process is ERRNO.[0m
+Jun 05 12:09:19 964869-cb00678.twc1.net systemd[1]: Starting webservice...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit webserv.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit webserv.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 1162.[0m
+Jun 05 12:09:19 964869-cb00678.twc1.net systemd[1]: [0;1;39m[0;1;31m[0;1;39mwebserv.service: Main process exited, code=exited, status=203/EXEC[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAn ExecStart= process belonging to unit webserv.service has exited.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 203.[0m
+Jun 05 12:09:19 964869-cb00678.twc1.net systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mwebserv.service: Failed with result 'exit-code'.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit webserv.service has entered the 'failed' state with result 'exit-code'.[0m
+Jun 05 12:09:19 964869-cb00678.twc1.net systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start webservice.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit webserv.service has failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit webserv.service has finished with a failure.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 1162 and the job result is failed.[0m
+Jun 05 12:09:31 964869-cb00678.twc1.net systemd[2082]: [0;1;31m[0;1;39m[0;1;31mwebserv.service: Failed to execute /root/web-service-master/start.sh: Exec format error[0m
+Jun 05 12:09:31 964869-cb00678.twc1.net systemd[2082]: [0;1;31m[0;1;39m[0;1;31mwebserv.service: Failed at step EXEC spawning /root/web-service-master/start.sh: Exec format error[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Process /root/web-service-master/start.sh could not be executed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process /root/web-service-master/start.sh could not be executed and failed.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe error number returned by this process is ERRNO.[0m
+Jun 05 12:09:31 964869-cb00678.twc1.net systemd[1]: Starting webservice...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit webserv.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit webserv.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 1317.[0m
+Jun 05 12:09:31 964869-cb00678.twc1.net systemd[1]: [0;1;39m[0;1;31m[0;1;39mwebserv.service: Main process exited, code=exited, status=203/EXEC[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAn ExecStart= process belonging to unit webserv.service has exited.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 203.[0m
+Jun 05 12:09:31 964869-cb00678.twc1.net systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mwebserv.service: Failed with result 'exit-code'.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit webserv.service has entered the 'failed' state with result 'exit-code'.[0m
+Jun 05 12:09:31 964869-cb00678.twc1.net systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start webservice.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit webserv.service has failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit webserv.service has finished with a failure.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 1317 and the job result is failed.[0m
+Jun 05 12:10:11 964869-cb00678.twc1.net systemd[2288]: [0;1;31m[0;1;39m[0;1;31mwebserv.service: Failed to execute /root/web-service-master/start.sh: Exec format error[0m
+Jun 05 12:10:11 964869-cb00678.twc1.net systemd[2288]: [0;1;31m[0;1;39m[0;1;31mwebserv.service: Failed at step EXEC spawning /root/web-service-master/start.sh: Exec format error[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Process /root/web-service-master/start.sh could not be executed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process /root/web-service-master/start.sh could not be executed and failed.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe error number returned by this process is ERRNO.[0m
+Jun 05 12:10:11 964869-cb00678.twc1.net systemd[1]: Starting webser...
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit webserv.service has begun execution[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit webserv.service has begun execution.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 1475.[0m
+Jun 05 12:10:11 964869-cb00678.twc1.net systemd[1]: [0;1;39m[0;1;31m[0;1;39mwebserv.service: Main process exited, code=exited, status=203/EXEC[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit process exited[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mAn ExecStart= process belonging to unit webserv.service has exited.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe process' exit code is 'exited' and its exit status is 203.[0m
+Jun 05 12:10:11 964869-cb00678.twc1.net systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mwebserv.service: Failed with result 'exit-code'.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: Unit failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe unit webserv.service has entered the 'failed' state with result 'exit-code'.[0m
+Jun 05 12:10:11 964869-cb00678.twc1.net systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start webser.[0m
+[0;38;5;245m░░ [0m[0;32mSubject: A start job for unit webserv.service has failed[0m
+[0;38;5;245m░░[0m [0;32mDefined-By: systemd[0m
+[0;38;5;245m░░[0m [0;32mSupport: http://www.ubuntu.com/support[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mA start job for unit webserv.service has finished with a failure.[0m
+[0;38;5;245m░░[0m [0;32m[0m
+[0;38;5;245m░░[0m [0;32mThe job identifier is 1475 and the job result is failed.[0m

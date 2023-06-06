@@ -29,9 +29,7 @@ def create_order(order: OrderPdModel):
     return {'status':'success'}
 
 
-@app.get('/v1/order', tags=['Заказы'])
-def create_order():
-    scheduler()
+
     
            
 

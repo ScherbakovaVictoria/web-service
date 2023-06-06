@@ -46,17 +46,14 @@ class UsersVector:
         self.cosine_distance = cosine_distance
 
                 
-def get_the_best_vector(user_id):
+def get_the_best_vector(user_id:int, user_perf_vectors: dict):
     v1 = get_user_vector_preference(user_id=user_id)
-    list_user_pref = []
-    with Session(engine) as session:
-        users = session.query(Client).all()
-        for user in users:
-            v_temp = get_user_vector_preference(user.id)
-            cosine_distance=get_cosine_distance(v1, v_temp)
-            if math.isnan(cosine_distance):
-                continue
-            list_user_pref.append(UsersVector(user_id=user.id, cosine_distance=cosine_distance))
+    list_user_pref=[]
+    for key in user_perf_vectors.keys():
+        cosine_distance=get_cosine_distance(v1, user_perf_vectors[key])
+        if math.isnan(cosine_distance):
+            continue
+        list_user_pref.append(UsersVector(user_id=int(key), cosine_distance=cosine_distance))
     list_sorted = sorted(list_user_pref, key=lambda user_vect: user_vect.cosine_distance)
     if len(list_sorted)<2:
         return -1
@@ -68,15 +65,18 @@ def get_the_best_vector(user_id):
 
 
 def scheduler():
+    print('scheduler task started')
     with Session(engine) as session:
         users = session.query(Client).all()
         recom = session.query(RecommendationModel).all()
         for item in recom:
             session.delete(item)
         session.commit()
+        user_perf_vectors = {}
         for user in users:
-            print(user.id)
-            n_id = get_the_best_vector(user.id)
+            user_perf_vectors[user.id] = get_user_vector_preference(user.id)
+        for user in users:
+            n_id = get_the_best_vector(user_id=user.id, user_perf_vectors=user_perf_vectors)
             rec = RecommendationModel(user_id=user.id, neighbour_id=n_id)
             session.add(rec)
             session.commit()

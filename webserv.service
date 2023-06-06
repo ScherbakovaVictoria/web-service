@@ -1,0 +1,9 @@
+[Unit]
+Description=webser
+After=network.target
+[Service]
+Type=oneshot
+User=root
+ExecStart=/bin/bash /root/web-service-master/start.sh
+[Install]
+WantedBy=multi-user.target

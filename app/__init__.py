@@ -5,6 +5,7 @@ import os
 from sqlalchemy import create_engine
 from sqlalchemy.ext.declarative import declarative_base
 
+
 config = Config()
 DATABASE_URL = config("EE_DATABASE_URL", cast=str, default="sqlite:///data.db")
 STATIC_FOLDER_URL = config("STATIC_FOLDER_URL", cast=str, default=os.getcwd()+'/app/static/')
@@ -23,7 +24,13 @@ Base = declarative_base()
 app=FastAPI()
 
 
+
+
+
+
+
+
 from app.db_models import Product, Category, Media, Client, Recommendation
-from app.controllers import category_controller, product_controller, user_controller, order_controller
+from app.controllers import category_controller, product_controller, user_controller, order_controller, recommendation_controller
 
 
